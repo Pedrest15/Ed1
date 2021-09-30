@@ -115,6 +115,10 @@ void imprime_lista(Lista* li){
         }   
     } else { //lista de decimais
         while(no != NULL){
+            no->dado *= 10; //contas para truncar (sem arredondamento)
+            no->dado = (int) no->dado;
+            no->dado /= 10;  
+            
             printf("%0.1f ", no->dado);
             no = no->prox;
         }
