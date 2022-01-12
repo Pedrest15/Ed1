@@ -1,3 +1,4 @@
+<div align="justify" >
 <p>
   O programa deve ler de um arquivo contendo os
 CEPs de cidades brasileiras e criar uma árvore binária ordenada e balanceada baseada no código do
@@ -51,3 +52,4 @@ arquivo).
 Os nodos devem ser exibidos no mesmo formato que foram lidos, como no comando 4.
   </ol>
   </p>
+ </center
