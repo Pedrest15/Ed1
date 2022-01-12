@@ -1,5 +1,6 @@
 <h1>TP02 - Dados3D em Listas</h1>
 
+<div align="justify" >
 <p> Este trabalho é relacionado ao uso de listas encadeadas dinâmicas (simples ou duplamente encadeadas) e que irão ser usadas para armazenar 
 os dados 3D em matrizes esparsas com dados ordenados e com consulta “rápida” priorizando alguma das coordenadas. 
 O programa também irá apresentar o desempenho na consulta aos dados destas diferentes listas com dados 3D esparsos. 
@@ -51,4 +52,4 @@ O programa começa lendo os dados e inserindo os dados do arquivo nas 5 listas, 
            3D. Considerando a lista LX (ordem em X depois Y e depois Z, exibir na tela apenas os 
            dados que ficam dentro do retângulo definido (incluindo os limites max e min). Exemplo: 
            Entrada de dados pelo teclado:</br>    CUT 0.0 0.0 0.0 10.0 10.0 10.0
-           
+</center>
