@@ -50,5 +50,5 @@ O programa começa lendo os dados e inserindo os dados do arquivo nas 5 listas, 
            denadas X,Y,Z máximas, definindo um “bounding box” (retângulo de recorte) dos dados 
            3D. Considerando a lista LX (ordem em X depois Y e depois Z, exibir na tela apenas os 
            dados que ficam dentro do retângulo definido (incluindo os limites max e min). Exemplo: 
-           Entrada de dados pelo teclado:    CUT 0.0 0.0 0.0 10.0 10.0 10.0
+           Entrada de dados pelo teclado:</br>    CUT 0.0 0.0 0.0 10.0 10.0 10.0
            
