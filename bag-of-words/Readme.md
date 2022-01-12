@@ -1,3 +1,5 @@
+<h1>Bag of Words</h1>
+
 <p>
   <strong>1 - </strong>Esse programa foi feito com o intuito de estudar o conceito de árvores do tipo AVL.
   </p>
