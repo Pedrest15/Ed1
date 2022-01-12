@@ -1,5 +1,6 @@
 <h1>Bag of Words</h1>
 
+<div align="justify" >
 <p>
   <strong>1 - </strong>Esse programa foi feito com o intuito de estudar o conceito de árvores do tipo AVL.
   </p>
@@ -51,3 +52,4 @@ deseja listar (valor inteiro entre 0 e 9999). Considerando este valor, listar to
 pelo menos este número de ocorrências (p.ex. se for 2, considerar incluindo de 2 para cima). A lista
 deve ser em ordem do número de ocorrências, do maior para o menor número de ocorrências.
   </p>
+</center>
