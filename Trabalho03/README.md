@@ -1,5 +1,6 @@
 <h1>TP03 - Circuitos Lógicos em Árvores Binárias NÃO ordenadas</h1>
 
+<div align="justify" >
 <p>
   Este trabalho é relacionado ao uso de Árvores Binárias, usadas para representar circuitos como
 o do diagrama abaixo: (a Raiz é a Saída “OUTPUT” e as folhas são as Entradas “INP” do Circuito
@@ -83,3 +84,4 @@ INP004 0</br></br>
 “propagados” para a raiz, seguindo o funcionamento da simulação das
 portas lógicas (simulação do circuito). O valor obtido na raiz é a saída.
   </p>
+</center>
