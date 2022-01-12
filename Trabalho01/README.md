@@ -1,5 +1,6 @@
 <h1>TP01 - SORT (Merge Sort)</h1>
 
+<div align="justify" >
 <p>
   Este trabalho é relacionado ao uso de uma lista encadeada dinâmica (simples ou duplamente
 encadeada) e que irá ser usada para armazenar listas de valores que devem ser unificados em
@@ -27,3 +28,4 @@ que não foram ainda ordenadas. E tipo 3 são listas não ordenadas, mas que dev
 na ordem inversa (decrescente) no final do processo de ordenação e unificação. Nestes casos
 (tipo 2 e 3) deve ser usada uma inserção ordenada na lista de dados.
   </p>
+</center>
